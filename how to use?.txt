@@ -1,0 +1,7 @@
+# First Uploud 
+import random
+import time
+import sys
+import string
+from typing import Tuple
+ # Secound open code and run it 
